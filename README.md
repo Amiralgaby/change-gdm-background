@@ -1,5 +1,7 @@
 # change-gdm-background
 
+> :warning: **For Ubuntu versions higher or equal to 24.04, this script does not work. Use [gdm-settings](https://gdm-settings.github.io/) instead**
+
 This script automates the process of setting an image or color in GNOME Display Manager 3 background
 which comes by default with Ubuntu or Pop OS versions 20.04 Focal Fossa, 20.10 Groovy Gorilla and
 21.04 Hirsute Hippo.
